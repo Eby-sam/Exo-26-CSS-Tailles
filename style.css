@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 18px;
+}
+
+body {
+    background-color: linear-gardient(red white) ;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+h3 {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#container {
+    margin-left: 40%;
+    margin-right: 60%;
+    margin-top: 50px;
+}
+
+.para {
+    color: coral;
+    font-size: 24px;
+    text-indent: 50px;
+}
+
+.cadre {
+    border: solid 1px black;
+    border-radius: 5px;
+    width: 500px;
+    height: 300px;
+    padding: 5px;
+    margin-bottom: 70px;
+    text-shadow: 1px 1px 2px black;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+    cursor: pointer;
+}
+
+.i {
+    font-style: italic;
+}
+
+.b {
+    font-weight: bold;
+}
+
+img {
+    margin-left: 80%;
+}
